@@ -1,6 +1,6 @@
 # Olá, eu sou o Erick✌!
 
-<img src="https://placehold.co/200x100" width="200px" align="right" >
+<img src="https://github.com/ErickAlvDev/ErickAlvDev/assets/142065333/90c7fe5b-d643-4c60-8c9a-253bcbb5964c" width="200px" align="right" >
   <p align="left">
 Meu nome é Erick Daniel Alvarado, pode me chamar de Erick. Sou Desenvolvedor Web Back-End desde 2023, atualmente estudo desenvolvimento de Sofware com foco em Back-End na @cubosacademy e também estudo Logística no Senai-To. Sou formado do ensino superior em Engenharia de Alimentos na Venezuela. E atualmente estou fazendo a migração de carreira para a area de tecnologia.  PD: "Estou amando"
   </p>
