@@ -6,7 +6,7 @@ Meu nome é Erick Daniel Alvarado, pode me chamar de Erick. Sou Desenvolvedor We
   </p>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/)
-<a href="mailto:jessicamedeirosp96@gmail.com">
+<a href="mailto:alvaradoerick26@gmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
